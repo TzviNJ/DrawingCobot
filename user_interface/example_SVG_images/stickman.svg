@@ -1,0 +1,17 @@
+<!-- One pixel per mm2 -->
+<svg height="210" width="297" xmlns="http://www.w3.org/2000/svg">
+	<!-- Legs -->
+	<path d="M130 180 L150 140 L170 180" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Body -->
+	<path d="M150 140 L150 80" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Arms -->
+	<path d="M110 125 L150 100 L190 125" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Head -->
+	<path d="M140 50 C140 90 160 90 160 50" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Hat -->
+	<path d="M130 50 L160 50 C160 40 145 40 145 50" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Eye -->
+	<path d="M145 57 L150 55" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Mouth -->
+	<path d="M142 70 L150 70" style="fill:none;stroke:black;stroke-width:1" />
+</svg>

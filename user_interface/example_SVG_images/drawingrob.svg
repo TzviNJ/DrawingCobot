@@ -1,0 +1,15 @@
+<!-- One pixel per mm2 -->
+<svg height="210" width="297" xmlns="http://www.w3.org/2000/svg">
+	<!-- Pen -->
+	<path d="M200 80 L200 160 L220 190 L240 160 L240 80 L200 80" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Claw -->
+	<path d="M200 90 L190 100 L160 70 L220 20 L280 70 L250 100 L240 90 L260 70 L220 40 L180 70 L200 90" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Lower Arm -->
+	<path d="M190 45 L190 20" style="fill:none;stroke:black;stroke-width:1" />
+	<path d="M250 45 L250 20" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Upper Arm -->
+	<path d="M100 20 L50 100 L50 160 L120 160 L120 190 L20 190" style="fill:none;stroke:black;stroke-width:1" />
+	<path d="M40 20 L20 50" style="fill:none;stroke:black;stroke-width:1" />
+	<!-- Drawing -->
+	<path d="M180 180 L220 190" style="fill:none;stroke:black;stroke-width:1" />
+</svg>

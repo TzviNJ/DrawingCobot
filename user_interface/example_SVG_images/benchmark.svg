@@ -1,0 +1,7 @@
+<!-- One pixel per mm2 -->
+<svg height="210" width="297" xmlns="http://www.w3.org/2000/svg">
+	<!-- Rectangle -->
+	<path d="M100 110 L250 110 L250 40 L100 40 L100 110" style="fill:none;stroke:black;stroke-width:3" />
+	<!-- Triangle -->
+	<path d="M40 190 L190 190 L115 120 L40 190" style="fill:none;stroke:black;stroke-width:3" />
+</svg>
