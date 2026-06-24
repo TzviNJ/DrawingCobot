@@ -33,7 +33,7 @@ Additionally, this file wraps the functions with a data structure called RunnerM
 
 Finally, this file initializes the module with the function PyInit_DrawBotRunner.
 
-## setup.py
+### setup.py
 This file compiles launch.c and launchmodule.c to create the Python module.
 It is run using the bash command:
 ```console
