@@ -22,7 +22,7 @@ The Drawbot Runner will also be able to be used as a python library. The most im
 4) cleanup_launches() - cleanup for clean exit (and kills all remaining sub processes.
 
 ## Setting up the python module
-Inside the interface directory, there are two file responsible for the setup of the module - launchmodule.c and setup.py.
+Inside the interface directory, there are two files responsible for the setup of the module - launchmodule.c and setup.py.
 
 ### launchmodule.c
 This file includes the C functions of the low level interface and does the necessary conversion for Python.
